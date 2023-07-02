@@ -31,6 +31,7 @@ package directly from the specific git repo by url and identify any commit hash 
 #More about UPM
 
 ## [Git dependencies](https://docs.unity3d.com/Manual/upm-git.html)
+[Dependency and resolution](https://docs.unity3d.com/Manual/upm-dependencies.html)
 
 Syntax:	URL example
 Latest default branch	"https://github.example.com/myuser/myrepository.git"
