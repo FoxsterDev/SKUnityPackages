@@ -1,0 +1,12 @@
+[submodule "Assets/SKTools"]
+	path = Assets/SKTools
+	url = ../SKTools.git
+[submodule "Assets/SKTools.MenuItemsFinder"]
+	path = Assets/SKTools.MenuItemsFinder
+	url = ../SKTools.MenuItemsFinder.git
+[submodule "Assets/SKTools.EditorCoroutine"]
+	path = Assets/SKTools.EditorCoroutine
+	url = ../SKTools.EditorCoroutine.git
+[submodule "Assets/SKTools.ScriptingDefineManager"]
+	path = Assets/SKTools.ScriptingDefineManager
+	url = ../SKTools.ScriptingDefineManager.git
