@@ -13,7 +13,7 @@ also there is a [Sample project](https://github.com/FoxsterDev/SKSample) to test
 From some historic reasons I decided in 2018 use git submodules and to save git history today in 2023 I added only package.json into these git repos
 and aggregated them inside one main repo SKUnityPackages. To support submodules it needs some effort. And simplify git workflow I will recommend
 to install packages in a common way from SKUnityPackages repo and a folder to navigate. The tag will be related to SKUnityPackage tag release. But you can install a 
-paclage directly from the specific git repo by url and identify any commit hash or branch.
+package directly from the specific git repo by url and identify any commit hash or branch.
 
 *Requires Unity 2020.3+*
 
